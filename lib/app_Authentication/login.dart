@@ -25,7 +25,7 @@ class LoginPage extends StatelessWidget {
               ),
               SizedBox(height: 8.0),
               Text(
-                'Sign in to access your account', // Sign in to access your account (Small, not bold)
+                'Sign-IN to access your account', // Sign in to access your account (Small, not bold)
                 style: TextStyle(fontSize: 14.0),
               ),
               SizedBox(height: 16.0),
